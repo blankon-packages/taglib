@@ -1,3 +1,9 @@
+taglib (1.9.1-2.4blankon2) tambora; urgency=medium
+
+  * Drop conflict libtag1v5 and ibtag1v5-vanilla
+
+ -- Syai Mif <syaimif@di.blankon.in>  Fri, 10 Jun 2016 22:01:22 +0700
+
 taglib (1.9.1-2.4blankon1) tambora; urgency=low
 
   * New upstream relase

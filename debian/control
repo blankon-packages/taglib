@@ -16,7 +16,6 @@ Architecture: any
 Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
 Depends: libtag1v5-vanilla (= ${binary:Version}), ${misc:Depends}
-Conflicts: libtag-extras0, libtag1c2a
 Replaces: libtag1c2a
 Description: audio meta-data library
  TagLib is a library for reading and editing audio meta data, commonly know as
@@ -45,7 +44,6 @@ Architecture: any
 Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Conflicts: libtag1-rusxmms, libtag-extras0, libtag1-vanilla
 Replaces: libtag1c2a (<< 1.5-5), libtag1-vanilla
 Breaks: libtag1c2a (<< 1.5-5)
 Description: audio meta-data library - vanilla flavour
