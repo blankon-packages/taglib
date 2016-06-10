@@ -1,0 +1,82 @@
+libtag.so.1 libtag1v5 #MINVER#
+
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File13UnknownObjectD0Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File13UnknownObjectD1Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File13UnknownObjectD2Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File14MetadataObjectD0Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File14MetadataObjectD1Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File14MetadataObjectD2Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File20FilePropertiesObjectD0Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File20FilePropertiesObjectD1Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File20FilePropertiesObjectD2Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File21MetadataLibraryObjectD0Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File21MetadataLibraryObjectD1Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File21MetadataLibraryObjectD2Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File22StreamPropertiesObjectD0Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File22StreamPropertiesObjectD1Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File22StreamPropertiesObjectD2Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File24ContentDescriptionObjectD0Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File24ContentDescriptionObjectD1Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File24ContentDescriptionObjectD2Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File32ExtendedContentDescriptionObjectD0Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File32ExtendedContentDescriptionObjectD1Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF4File32ExtendedContentDescriptionObjectD2Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF7Picture14PicturePrivateD0Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF7Picture14PicturePrivateD1Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF7Picture14PicturePrivateD2Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF9Attribute16AttributePrivateD0Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF9Attribute16AttributePrivateD1Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3ASF9Attribute16AttributePrivateD2Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3MP44Item11ItemPrivateD0Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3MP44Item11ItemPrivateD1Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3MP44Item11ItemPrivateD2Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3MP48CoverArt15CoverArtPrivateD0Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3MP48CoverArt15CoverArtPrivateD1Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib3MP48CoverArt15CoverArtPrivateD2Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib4MPEG6Header13HeaderPrivateD0Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib4MPEG6Header13HeaderPrivateD1Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib4MPEG6Header13HeaderPrivateD2Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib5ID3v223AttachedPictureFrameV22D0Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib5ID3v223AttachedPictureFrameV22D1Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib5ID3v223AttachedPictureFrameV22D2Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib5ID3v227UserTextIdentificationFrameD0Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib5ID3v227UserTextIdentificationFrameD1Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib5ID3v227UserTextIdentificationFrameD2Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib6String13StringPrivateD0Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib6String13StringPrivateD1Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional)_ZN6TagLib6String13StringPrivateD2Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# _ZN6TagLib6String3endEv@Base 1.4 1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# _ZN6TagLib6String5beginEv@Base 1.4 1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# _ZN6TagLib6StringC1ERKSbIwSt11char_traitsIwESaIwEENS0_4TypeE@Base 1.4 1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# _ZN6TagLib6StringC1ERKSsNS0_4TypeE@Base 1.4 1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# _ZN6TagLib6StringC2ERKSbIwSt11char_traitsIwESaIwEENS0_4TypeE@Base 1.4 1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# _ZN6TagLib6StringC2ERKSsNS0_4TypeE@Base 1.4 1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# _ZN6TagLib6StringaSERKSbIwSt11char_traitsIwESaIwEE@Base 1.4 1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# _ZN6TagLib6StringaSERKSs@Base 1.4 1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# _ZNK6TagLib6String3endEv@Base 1.4 1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# _ZNK6TagLib6String5beginEv@Base 1.4 1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# _ZNK6TagLib6String6to8BitEb@Base 1.4 1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# _ZNK6TagLib6String9toWStringEv@Base 1.5
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst|arch=amd64 armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips64 mips64el mipsel)_ZNSt10_List_baseIN6TagLib10ByteVectorESaIS1_EE8_M_clearEv@Base 1.7.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst|arch=amd64 armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips64 mips64el mipsel)_ZNSt10_List_baseIN6TagLib3ASF9AttributeESaIS2_EE8_M_clearEv@Base 1.7.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst|arch=amd64 armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips64 mips64el mipsel)_ZNSt10_List_baseIN6TagLib3MP48CoverArtESaIS2_EE8_M_clearEv@Base 1.7.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst)_ZNSt10_List_baseIN6TagLib6StringESaIS1_EE8_M_clearEv@Base 1.4 1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst)_ZNSt4pairIKN6TagLib10ByteVectorENS0_6StringEED1Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst)_ZNSt4pairIKN6TagLib10ByteVectorENS0_6StringEED2Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst)_ZNSt4pairIKN6TagLib6StringENS0_10StringListEED1Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst)_ZNSt4pairIKN6TagLib6StringENS0_10StringListEED2Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst)_ZNSt4pairIKN6TagLib6StringENS0_3APE4ItemEED1Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst)_ZNSt4pairIKN6TagLib6StringENS0_3APE4ItemEED2Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst|arch=!ia64 !powerpc !s390x !sparc)_ZNSt4pairIKN6TagLib6StringENS0_3MP44ItemEED1Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst|arch=!ia64 !powerpc !s390x !sparc)_ZNSt4pairIKN6TagLib6StringENS0_3MP44ItemEED2Ev@Base 1.7-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst|arch=!ia64 !powerpc !s390x !sparc)_ZNSt4pairIKN6TagLib6StringES1_ED1Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst|arch=!ia64 !powerpc !s390x !sparc)_ZNSt4pairIKN6TagLib6StringES1_ED2Ev@Base 1.9.1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst)_ZNSt8_Rb_treeIKN6TagLib6StringESt4pairIS2_NS0_3APE4ItemEESt10_Select1stIS6_ESt4lessIS2_ESaIS6_EE7_M_copyEPKSt13_Rb_tree_nodeIS6_EPSE_@Base 1.4 1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst)_ZNSt8_Rb_treeIN6TagLib10ByteVectorESt4pairIKS1_NS0_6StringEESt10_Select1stIS5_ESt4lessIS1_ESaIS5_EE7_M_copyEPKSt13_Rb_tree_nodeIS5_EPSD_@Base 1.8
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst)_ZNSt8_Rb_treeIN6TagLib10ByteVectorESt4pairIKS1_S1_ESt10_Select1stIS4_ESt4lessIS1_ESaIS4_EE7_M_copyEPKSt13_Rb_tree_nodeIS4_EPSC_@Base 1.8
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst)_ZNSt8_Rb_treeIN6TagLib6StringESt4pairIKS1_NS0_10ByteVectorEESt10_Select1stIS5_ESt4lessIS1_ESaIS5_EE7_M_copyEPKSt13_Rb_tree_nodeIS5_EPSD_@Base 1.8
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst)_ZNSt8_Rb_treeIN6TagLib6StringESt4pairIKS1_NS0_10StringListEESt10_Select1stIS5_ESt4lessIS1_ESaIS5_EE7_M_copyEPKSt13_Rb_tree_nodeIS5_EPSD_@Base 1.4 1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst)_ZNSt8_Rb_treeIN6TagLib6StringESt4pairIKS1_NS0_3MP44ItemEESt10_Select1stIS6_ESt4lessIS1_ESaIS6_EE7_M_copyEPKSt13_Rb_tree_nodeIS6_EPSE_@Base 1.6-2~
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst)_ZNSt8_Rb_treeIN6TagLib6StringESt4pairIKS1_S1_ESt10_Select1stIS4_ESt4lessIS1_ESaIS4_EE7_M_copyEPKSt13_Rb_tree_nodeIS4_EPSC_@Base 1.8
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst)_ZNSt8_Rb_treeIN6TagLib6StringESt4pairIKS1_iESt10_Select1stIS4_ESt4lessIS1_ESaIS4_EE7_M_copyEPKSt13_Rb_tree_nodeIS4_EPSC_@Base 1.4 1
+#MISSING: 1.9.1-2.1ubuntu2~gcc5.1# (optional=templinst)_ZNSt8_Rb_treeIiSt4pairIKiN6TagLib10ByteVectorEESt10_Select1stIS4_ESt4lessIiESaIS4_EE7_M_copyEPKSt13_Rb_tree_nodeIS4_EPSC_@Base 1.4 1
