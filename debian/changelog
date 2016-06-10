@@ -1,4 +1,4 @@
-taglib (1.9.1-2.4blankon1) tambora; urgency=medium
+taglib (1.9.1-2.4blankon1) tambora; urgency=low
 
   * New upstream relase
   * Changes in control libtag1v5-vanilla depends etc.
